@@ -1,3 +1,4 @@
+//这是我写的11
 var is = true;
 $('.bl').click(function () {
     if (is) {
@@ -8,6 +9,7 @@ $('.bl').click(function () {
         is = true;
     }
 });
+//这也是我写的
 var flag;
 $('.one').mouseenter(function () {
     var that = this;
